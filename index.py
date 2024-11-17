@@ -1,5 +1,5 @@
-def sum (a,b):
-    return print(a + b)
+def sum (num1,num2):
+    return print(num1 + num2)
     
 sum(1,2)
 
